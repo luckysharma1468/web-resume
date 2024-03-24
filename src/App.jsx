@@ -9,7 +9,7 @@ function App() {
   const introductionArray = [
     "Hey, My Name is Prashant Sharma !",
     "Welcome to my web resume ❤",
-    "I am an Frontend Developer !",
+    "I am a Frontend Developer !",
     "OR more specifically, React JS Developer"
   ];
   return (
